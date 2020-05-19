@@ -3,7 +3,7 @@ from .base_distribution import BaseDistribution
 
 class Dist_ntj221(BaseDistribution):
 	def __init__(self):
-		self.f_max = 65/120
+		self.f_max = 226/59
 		self.x_min = 0
 		self.x_max = 1
 
